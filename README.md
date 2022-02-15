@@ -1,4 +1,4 @@
-ELECT * FROM PortfolioProject..CovidDeaths
+SELECT * FROM PortfolioProject..CovidDeaths
 ORDER BY 3, 4;
 
 
